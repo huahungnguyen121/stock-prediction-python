@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project creates and uses LSTM model to predict the trend of several pairs of currencies the closing price. The data will be fetched directly using yfinance. Available currency options:
+This project creates and uses LSTM model to predict the trend of several pairs of currencies' closing price. The data will be fetched directly using yfinance. Available currency options:
 
 -   BTC - USD
 -   ETH - USD
