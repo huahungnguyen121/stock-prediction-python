@@ -36,7 +36,7 @@ Then run:
 
 `python dashboard.py`
 
-The app is now running on `127.0.0.1:8050`.
+The app is now running on `127.0.0.1:8050`
 
 ## Demo Video
 
