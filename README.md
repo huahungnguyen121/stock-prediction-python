@@ -37,3 +37,7 @@ Then run:
 `python dashboard.py`
 
 The app is now running on `127.0.0.1:8050`.
+
+## Demo Video
+
+[Youtube](https://youtu.be/ng8D7VQjkO8)
